@@ -27,7 +27,7 @@
 
 #### - 🛸 Into Electrical Mobility and Artificial Intelligence
 
-#### - 💬 Connect? Here 👉🏼[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" >](https://www.linkedin.com/in/sandeshgaikwad97)
+#### - 💬 Connect? Here 👉🏼(https://www.linkedin.com/in/sandeshgaikwad97)
 
 
 <br />
