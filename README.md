@@ -1,5 +1,6 @@
 ### Hi there, I'm Sandesh 👋
 
+#### - 💬 Connect? Here 👉🏼
 
 <br/>
 <a href="https://twitter.com/SandeshGaikwad_">
@@ -27,13 +28,12 @@
 
 #### - 🛸 Into Electrical Mobility and Artificial Intelligence
 
-#### - 💬 Connect? Here 👉🏼(https://www.linkedin.com/in/sandeshgaikwad97)
 
 
 <br />
 
 
-**I am Into ,
+### I am Into ,
 
 **Machine Learning, Deep learning , Optimization , Control Systems  😼**
 <br />
