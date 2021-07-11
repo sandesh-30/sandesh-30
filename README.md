@@ -26,16 +26,10 @@
 
 #### - 🔭 Loves travelling and watching webseries. 
 
-#### - 🛸 Into Electrical Mobility and Artificial Intelligence
-
-
-
-<br />
-
-
-### I am Into ,
-
+#### - 🛸 Into Electrical Mobility and Artificial Intelligence 
 **Machine Learning, Deep learning , Optimization , Control Systems  😼**
+
+
 <br />
 
 
