@@ -10,7 +10,7 @@
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/hear._me_roar/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://github.com/sandesh-30/sandesh-30/blob/main/3225191_app_instagram_logo_media_popular_icon.png?raw=true" />
 </a>
 <a href="https://www.hackerrank.com/sandeshgaikwad09">
   <img align="left" alt=" HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
