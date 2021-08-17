@@ -1,6 +1,6 @@
 ### Hi there, I'm Sandesh 👋
 
-#### - 💬 Want to Connect? Can found me Here 👇
+#### - 💬 Want to Connect? Can found me Here (Click to go to my profile) 👇
 
 <br/>
 <a href="https://twitter.com/SandeshGaikwad_">
