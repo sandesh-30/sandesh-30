@@ -20,13 +20,13 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=sandesh-30.sandesh-30)
 
 
-### Hi 🙋‍♂️,
-### I'm a machine learning enthusiast from India and interested in the projects in Electrical mobility , Supply chain and logistics , operations research and financial engineering .
+### About Me 🙋‍ :,
+### I'm a machine learning enthusiast from India and interested in the projects in Electrical Mobility , Supply Chain and logistics , operations research and financial engineering .
 
 
-#### - 🔭 Loves travelling and watching webseries. 
+#### - 🔭 Loves travelling and watching TV shows , webseries , anime. 
 
-#### - 🛸 Into Electrical Mobility and Artificial Intelligence 
+#### - 🛸 My areas of interest include Electrical Mobility and Artificial Intelligence 
 **Machine Learning, Deep learning , Optimization , Control Systems  😼**
 
 
@@ -44,7 +44,7 @@
 ### - Languages and Tools...
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Vscode" style="vertical-align:top; margin:4px"><img src="https://github.com/sandesh-30/sandesh-30/blob/main/4375063_logo_project_r_icon.png?raw=true" alt="R" style="vertical-align:top; margin:4px"><img src="https://github.com/sandesh-30/sandesh-30/blob/main/315102_sql_file_icon.png?raw=true" alt="sql" style="vertical-align:top; margin:4px">
 
 </p>
 
