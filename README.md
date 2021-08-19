@@ -17,10 +17,10 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=sandesh-30.sandesh-30)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=sandesh-30.sandesh-30)
 
 
-### About Me 🙋‍ :,
+### About Me 🙋‍ :
 ### I'm a machine learning enthusiast from India and interested in the projects in Electrical Mobility , Supply Chain and logistics , operations research and financial engineering .
 
 
