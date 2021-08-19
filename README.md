@@ -21,8 +21,7 @@
 
 
 ### About Me 🙋‍ :
-### I'm a machine learning enthusiast from India and interested in the projects in Electrical Mobility , Supply Chain and logistics , operations research and financial engineering .
-
+### I'm a machine learning enthusiast from India and interested in the projects in  Supply Chain and logistics , operations research and financial engineering 
 
 #### - 🔭 Loves travelling and watching TV shows , webseries , anime. 
 
