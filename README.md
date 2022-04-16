@@ -15,18 +15,17 @@
 <a href="https://www.hackerrank.com/sandeshgaikwad09">
   <img align="left" alt=" HackerRank" width="22px" src="https://github.com/sandesh-30/sandesh-30/blob/main/4373234_hackerrank_logo_logos_icon.png?raw=true" />
 </a>
-
-
+              
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=sandesh-30.sandesh-30)
 
 
 ### About Me 🙋‍ :
-### I'm a machine learning enthusiast from India and interested in the projects in  Supply Chain and logistics , operations research and financial engineering 
+### I'm a machine learning enthusiast from India and interested in the projects related to Data Science, Supply Chain and logistics , operations research and financial engineering 
 
 #### - 🔭 Loves travelling and watching TV shows , webseries , anime. 
 
 #### - 🛸 My areas of interest include Electrical Mobility and Artificial Intelligence 
-**Machine Learning, Deep learning , Optimization , Control Systems  😼**
+**Machine Learning, Deep learning , Optimization , Control Systems , Power Electronics  😼**
 
 
 <br />
