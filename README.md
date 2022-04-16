@@ -42,7 +42,8 @@
 ### - Languages and Tools...
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Vscode" style="vertical-align:top; margin:4px"><img src="https://github.com/sandesh-30/sandesh-30/blob/main/4375063_logo_project_r_icon.png?raw=true" alt="R" style="vertical-align:top; margin:4px"><img src="https://github.com/sandesh-30/sandesh-30/blob/main/315102_sql_file_icon.png?raw=true" alt="sql" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Vscode" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" style="vertical-align:top; margin:4px"><img src="https://github.com/sandesh-30/sandesh-30/blob/main/4375063_logo_project_r_icon.png?raw=true" alt="R" style="vertical-align:top; margin:4px"><img src="https://github.com/sandesh-30/sandesh-30/blob/main/315102_sql_file_icon.png?raw=true" alt="sql" style="vertical-align:top; margin:4px">
 
 </p>
 
