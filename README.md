@@ -15,8 +15,8 @@
 <a href="https://www.hackerrank.com/sandeshgaikwad09">
   <img align="left" alt=" HackerRank" width="22px" src="https://github.com/sandesh-30/sandesh-30/blob/main/4373234_hackerrank_logo_logos_icon.png?raw=true" />
 </a>
-              
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=sandesh-30.sandesh-30)
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=sandesh-30.sandesh-30)
 
 
 ### About Me 🙋‍ :
